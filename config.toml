@@ -1,3 +1,4 @@
 baseURL = "https://rizaldim.com"
 languageCode = "en-us"
 title = "Rizal's Personal Site"
+theme = "basic"
