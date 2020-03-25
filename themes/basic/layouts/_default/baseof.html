@@ -2,9 +2,9 @@
 <html>
 {{- partial "head.html" . -}}
 <body>
-	<div class="container">
+	<div class="container l-stack">
 		{{- partial "header.html" . -}}
-		<main>
+		<main class="l-stack">
 			{{- block "main" . }}{{- end }}
 		</main>
 		{{- partial "footer.html" . -}}

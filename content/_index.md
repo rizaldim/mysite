@@ -1,10 +1,8 @@
-This is my personal site.
+Hi, I'm Rizaldi. This is my pesonal website.
 
 In this site you'll find:
 
 * My blog posts
-* My micro posts (micro post is like a tweet)
-* My side projects
+* My side projects (none yet)
 * My tutorials
-* A bit about me
-* My resume
+
