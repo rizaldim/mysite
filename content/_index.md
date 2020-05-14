@@ -1,8 +1,8 @@
-Hi, I'm Rizaldi. This is my pesonal website.
+Hi there! Rizal here and this is my personal website. I'm a 30-something-year
+old software developer living in Jakarta, Indonesia.
 
-In this site you'll find:
+This website is a place for me to document my learning and other stuffs.
+There's still not much contect and I can assure you that it won't change much
+in near future. Anyway thanks for visiting. Cheers.
 
-* My blog posts
-* My side projects (none yet)
-* My tutorials
 
