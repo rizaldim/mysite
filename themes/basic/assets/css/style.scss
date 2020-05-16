@@ -8,6 +8,3 @@
 @import 'objects.container';
 @import 'objects.stack';
 
-.l-stack > * + * {
-	margin-top: 1.5em;
-}
