@@ -3,6 +3,7 @@
 {{- partial "head.html" . -}}
 <body>
 	<div class="container">
+		{{- block "header" . }}{{- end }}
 		<main class="l-stack">
 			{{- block "main" . }}{{- end }}
 		</main>
